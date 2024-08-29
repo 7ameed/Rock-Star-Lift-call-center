@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rock-Star-Lift-call-center/static/css/main.44f88b0c.css",
-    "main.js": "/Rock-Star-Lift-call-center/static/js/main.9faffab9.js",
+    "main.js": "/Rock-Star-Lift-call-center/static/js/main.6035f68c.js",
     "static/media/fa-solid-900.ttf": "/Rock-Star-Lift-call-center/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/fa-brands-400.ttf": "/Rock-Star-Lift-call-center/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/Rock-Star-Lift-call-center/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
@@ -13,10 +13,10 @@
     "static/media/fa-v4compatibility.woff2": "/Rock-Star-Lift-call-center/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/Rock-Star-Lift-call-center/index.html",
     "main.44f88b0c.css.map": "/Rock-Star-Lift-call-center/static/css/main.44f88b0c.css.map",
-    "main.9faffab9.js.map": "/Rock-Star-Lift-call-center/static/js/main.9faffab9.js.map"
+    "main.6035f68c.js.map": "/Rock-Star-Lift-call-center/static/js/main.6035f68c.js.map"
   },
   "entrypoints": [
     "static/css/main.44f88b0c.css",
-    "static/js/main.9faffab9.js"
+    "static/js/main.6035f68c.js"
   ]
 }
