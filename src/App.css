@@ -1,0 +1,972 @@
+
+body{
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+                       /* start navbar */
+
+#RockStar{
+    margin-left: 20px;
+   color: white;
+    font-weight: 600;
+   
+  }
+  .logo{
+    width: 27%;
+  }
+
+  .nav-link{
+    margin:10px;
+  
+  }
+  #navbar a{
+    color: white;
+  }
+ 
+ .nav-link:hover{
+    transform: scale(1.1);
+    color: #003C43;
+  }
+
+   #navbar{
+    padding:5px;
+    background-color:#003C43;
+   }
+    /*              end navbar           */
+
+
+
+
+   /*      start banner section    */
+
+
+
+   .banner-wrapper{
+    color: white;
+    position: relative;
+    padding-bottom: 2rem;
+    background-color:#003C43;
+
+   }
+
+   .banner-container{
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 97%;
+
+   }
+   /*right side*/
+
+   .image-container{
+    width:28rem;
+    height: 35rem;
+    overflow: hidden;
+    border-radius: 15rem 15rem 0 0;
+    border: 8px solid rgba(255,255,255,0.12);
+    margin-top: 80px;
+    margin-right: 80px;
+
+   }
+   .image-container3{
+    width:40rem;
+    height: 35rem;
+    overflow: hidden;
+    border-radius: 15rem 15rem 0 0;
+    border: 8px solid rgba(255,255,255,0.12);
+    margin-top: 80px;
+    margin-right: 80px;
+
+   }
+   .image-container img{
+    width: 100%;
+    height: 100%;
+    
+   }
+   .flexcolstart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+   }
+                             /* leftside */
+
+
+     .banner-left{
+        gap: 3rem;
+        margin-bottom: 120px;
+        margin-left: 50px;
+     }    
+     .banner-title{
+        position: relative;
+        z-index: 1;
+
+     }  
+     .banner-title h1{
+        font-weight: 600;
+        font-size: 3.8rem;
+        line-height: 4rem;
+
+     }       
+     .stats{
+        width: 90%;
+        justify-content: space-between;
+
+     }    
+     .stat :nth-child(1){
+        font-size: 2rem;
+
+     }    
+     .secondarytext{
+        color: rgb(140 139 139);
+        font-size: 0.9rem;
+     }
+     
+                           
+      /*    end banner section    */
+
+
+
+
+
+
+        
+
+
+
+                          /* start section1 */
+
+.container1{
+    padding:60px;
+    background-color: #dadee4;
+}
+
+
+
+.imagecontainer1{
+    width: 80%;
+    height: 400px;
+    border-radius: 10%;
+    margin-left: 120px;
+}
+.container1 h3{
+    margin-left: 120px;
+   font-weight: bolder;
+   font-size:large;
+}
+.container2{
+    display: flex;
+    margin-left: 120px;
+    margin-top:70px;
+}
+.container4{
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.container2 h5{
+    margin-left: 7px;
+    margin-bottom: 2px;
+    font-weight: 400;
+    font-size: 17px;
+    
+}
+.container2 i{
+  margin-top: 5px;
+  
+    
+}
+.buttons1{
+    display: flex;
+   margin-top: 40px;
+   margin-left: 100px;
+    
+    
+    
+}
+.buttons1 button{
+    margin-left: 13px;
+}
+.sec3p1{
+    color: #dadee4;
+}
+.imgsec3{
+    margin-top: 50px;
+    margin-right: 30px;
+}
+
+                            /* end section1 */
+
+                            /* start section3 */
+
+
+                            /*  start    service page       */
+
+
+                        /*           start section3                  */    
+.sec3{
+  background-color:#003C43;  
+     }
+ /*           end section3                  */
+
+     .cards{
+      padding:50px;
+      background-color:#E2E2EE ;
+     }
+     .cards h2{
+       
+        margin-bottom: 50px; 
+       font-weight: lighter;
+       margin-top:65px;
+       text-align: center;
+       color: #003C43;
+     }
+       
+     
+     .card h5{
+        font-weight: bold;
+        color: #003C43;
+        font-size: 15px;
+     }
+     .card p{
+        font-weight:lighter;
+     }
+     .card{
+        width: 18rem;
+        
+     }
+     .card img{
+        width: 100%;
+        height: 200px;
+     }
+
+     .button-33 {
+       background-color: #003C43;
+       border-radius: 100px;
+       box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+       color:#eff1f1;
+      
+       cursor: pointer;
+       display: inline-block;
+       font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+       padding: 7px 20px;
+       text-align: center;
+       text-decoration: none;
+       transition: all 250ms;
+       border: 0;
+       font-size: 16px;
+       user-select: none;
+       -webkit-user-select: none;
+       touch-action: manipulation;
+     }
+     
+     .button-33:hover {
+       box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+       transform: scale(1.05) rotate(-1deg);
+     }
+             /*       end srvice page     */
+
+             /*    start privacy terms page    */
+
+             .text-container{
+                padding: 80px;
+                background-color: #003C43;
+             }
+             .text-container h1{
+                text-align: center;
+                margin-top: 50px;
+                margin-bottom: 50px;
+                color: white;
+             }
+             .text-container h3{
+                text-align: center;
+                margin-top: 50px;
+                margin-bottom: 80px;
+                font-size: 22px;
+              font-weight: 600;
+              color: white;
+             }
+             .text-container p{
+                text-align: start;
+                margin-top: 30px;
+                margin-bottom: 20px;
+                padding: 4px;
+                font-size: 17px;
+              font-weight: 400;
+              letter-spacing: .2px;
+              line-height: 26px;
+              color: white;
+             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+             }
+             /*     end privacy terms page       */
+
+             /*       start contact us page     */
+             .formcontainer{
+                min-height: 100vh;
+                background: #08071d;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: url("../public/images/contactus3.jpeg") no-repeat center center/cover;
+
+             }
+             .formcontainer form {
+                width: 670px;
+                height: 400px;
+                display: flex;
+                justify-content: center;
+                box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+                border-radius: 15px;
+                background: rgba(255, 255, 255, 0.1);
+                backdrop-filter: blur(10px);
+                flex-wrap: wrap;
+             }
+             .formcontainer form h1{
+                color: #fff;
+                font-weight: 500;
+                margin-top: 20px;
+                width: 500px;
+                text-align: center;
+             }
+             .formcontainer form input{
+                width: 290px;
+                height: 40px;
+                padding-left: 10px;
+                outline: none;
+                border: none;
+                font-size: 15px;
+                margin-bottom: 10px;
+                background: none;
+                border-bottom:2px solid #fff ;
+             }
+             .formcontainer form input::placeholder{
+                color: #ddd;
+
+             }
+             .formcontainer form #lastname,
+             .formcontainer form #mobile{
+                margin-left: 20px;
+             }
+             .formcontainer form label{
+                color: #fff;
+                font-weight: 300;
+                width: 600px;
+                margin-top: 20px;
+             }
+             .formcontainer form textarea{
+                background: none;
+                border: none;
+                border-bottom: 2px solid #fff;
+                color: #fff;
+                font-weight: 200;
+                font-size: 15px;
+                padding: 10px;
+                outline: none;
+                min-width: 600px;
+                max-width: 600px;
+                min-height: 80px;
+                max-height: 80px;
+             }
+             textarea::-webkit-scrollbar{
+                width: 1em;
+             }
+             textarea::-webkit-scrollbar-thumb{
+                background-color: rgb(194, 194, 194, 0.713);
+             }
+             .formcontainer form #button{
+                border: none;
+                background: #fff;
+                border-radius: 5px;
+                margin-top: 20px;
+                font-weight: 600;
+                font-size: 20px;
+                color: #333;
+                width: 100px;
+                padding: 0;
+                margin-right: 500px;
+                margin-bottom: 30px;
+                transition: 0.3s;
+             }
+             .formcontainer form #button:hover{
+                opacity: 0.7;
+
+             }
+                 /*    end contact us page    */
+                 /* start costcalculator */
+     
+     .productsselected{
+      padding-top: 200px;
+      
+      padding-bottom: 50px;
+      
+    
+     }
+     .productsselected h2{
+      font-size: 17px;
+      margin-bottom: 17px;
+    
+     }
+     .productsselected h3{
+      font-size: 18px;
+      font-weight: bold;
+     }
+     
+    
+    #btn-5{
+      margin-left: 160px;
+      margin-top: 50px;
+    }
+     /* end costcalculator */
+                            
+                            
+                            
+   
+          
+           
+
+               
+
+ 
+
+               /* start footer */
+  
+ #tempaltemo_footer a { color: #dcdde1;}
+ #tempaltemo_footer a:hover { color: #003C43;}
+ #tempaltemo_footer ul.footer-link-list li { padding-top: 10px;}
+ #tempaltemo_footer ul.footer-icons li {
+   width: 2.6em;
+   height: 2.6em;
+   line-height: 2.6em;
+ }
+ #footer{
+    color: white;
+ }
+ #tempaltemo_footer ul.footer-icons li:hover {
+   background-color: #cfd6e1;
+   transition: .5s;
+ }
+ #tempaltemo_footer ul.footer-icons li:hover i {
+   color: #212934;
+   transition: .5s;
+ }
+ #tempaltemo_footer .border-light { border-color: #2d343f !important;}
+ .logo2{
+    width: 160%;
+ }
+                 /*     end footer      */
+                 /*      srart media query     */
+@media only screen and (min-width:768px) and (max-width: 991px){
+    .carsoul-captian{
+        bottom: 370px;
+
+    }
+    .carsoul-captian p{
+        width: 100%;
+    }
+    .container4 h3{
+        font-size:20px;
+        margin-bottom: 20px;
+        margin-right: 50px;
+        width: 100%;
+       
+    }
+    .container2{
+       
+        width: 100%;
+    }
+    .buttons1 {
+      width: 100%;
+       display: inline-block;
+      
+    }
+    .buttons1 button{
+        margin-top:15px;
+    }
+    .sec3p1 h5{
+        margin-right:950px;
+       font-size: 15px;
+       
+    }
+    .imgsec3{
+        width: 70%;
+    }
+    .image-container{
+        position: absolute;
+        top: 5px;
+        width: 30%;
+        height: 350px;
+        
+        right: 1px;
+       
+    }
+    .banner-des span{
+        margin-bottom: 70px;
+        width: 80%;
+    }
+  
+   
+       .banner-title h1{
+        font-size: 18px;
+        margin-top: 50px;
+
+       }
+       .secondarytext span{
+        margin-bottom: 280px;
+        margin-right: 50px;
+       }
+       .stat span{
+        font-size: 10px;
+       }
+
+
+
+}
+
+@media only screen and (min-width:577px)   and (max-width: 767px) {
+
+
+    
+    
+    .container2 h5{
+        font-size: 15px;
+        margin-bottom: 20px;
+       
+    }
+    .container4 h3{
+        font-size: 15px;
+        margin-bottom: 20px;
+        margin-right: 50px;
+       
+    }
+    .imagecontainer1{
+        width: 70%;
+        margin-right: 50px;
+        margin-top:40px;
+    }
+    .buttons1{
+       margin-top: 20px;
+        
+    }
+    .sec3p1 h5{
+        margin-right:350px;
+       font-size: 15px;
+       
+       
+    }
+    .container4 h3{
+        margin-top: 15px;
+        font-size: 17px;
+    }
+    .imgsec3{
+        width: 70%;
+    }
+    .image-container{
+        position: absolute;
+        top: 60px;
+        width: 30%;
+        height: 350px;
+        
+       left: 390px;
+       
+    }
+    .banner-des span{
+       
+        margin-right: 270px;
+        
+    }
+   
+  
+   
+       .banner-title h1{
+        font-size: 18px;
+        margin-top: 90px;
+
+       }
+       .secondarytext span{
+        margin-bottom: 480px;
+        margin-right: 50px;
+       }
+       .stats{
+        font-size: 10px;
+      margin-top:10px;
+     width: 100px;
+     
+      margin-right: 50px;
+       }
+       .stats span{
+        font-size: 10px;
+       }
+       .banner-container{
+        width: 80%;
+       }
+       .flexcolstart{
+        font-size: 10px;
+        margin-left: 20px;
+
+       }
+       #firstname{
+        width: 80%;
+        display: block;
+       }
+       #emailname{
+        width: 80%;
+        display: block;
+       }
+       #lastname{
+        width: 80%;
+        display: block;
+       }
+       #mobile{
+        width: 80%;
+        display: block;
+       }
+       .formcontainer form {
+        width: 470px;
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+        border-radius: 15px;
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(10px);
+        flex-wrap: wrap;
+     }
+     .formcontainer form #button{
+        border: none;
+        background: #fff;
+        border-radius: 5px;
+        margin-top: 20px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #333;
+        width: 100px;
+        padding: 0;
+        margin-right: 300px;
+        margin-bottom: 30px;
+        transition: 0.3s;
+     }
+     .formcontainer form textarea{
+        background: none;
+        border: none;
+        border-bottom: 2px solid #fff;
+        color: #fff;
+        font-weight: 200;
+        font-size: 15px;
+        padding: 25px;
+        outline: none;
+        min-width: 400px;
+        max-width: 400px;
+        min-height: 80px;
+        max-height: 80px;
+     }
+     .formcontainer form label{
+        color: #fff;
+        font-weight: 200;
+        width: 500px;
+        margin-top: 20px;
+        margin-left: 57px;
+        
+     }
+      
+
+
+}
+
+@media only screen and (min-width:376px)  and (max-width:576px) {
+    .container4 h3{
+        font-size: 12px;
+        margin-bottom: 20px;
+        margin-right: 80px;
+        margin-top: 50px;
+        font-size: 17px;
+       
+    }
+    .container2 h5{
+        font-size: 15px;
+        margin-bottom: 5px;
+        margin-right: 100px;
+        text-align: center;
+       
+    }
+    .imagecontainer1{
+        width: 70%;
+        margin-right: 120px;
+        margin-top: 15px;
+    }
+    .buttons1{
+        margin-top: 30px;
+        margin-right: 30px;
+         
+     }
+     .container1{
+        padding-right: 50%;
+     }
+     .image-container{
+        position: absolute;
+        top: 140px;
+        width: 50%;
+        height: 350px;
+        
+       left: 170px;
+       
+    }
+    .banner-des span{
+       
+        margin-right: 270px;
+        
+    }
+   
+  
+   
+       .banner-title h1{
+        font-size: 18px;
+        margin-top: 90px;
+
+       }
+       
+       .stats{
+        font-size: 10px;
+      margin-top:250px;
+    width: 100%;
+     
+      margin-right: 50px;
+       }
+       .stats span{
+        font-size: 12px;
+       }
+       .banner-container{
+        width: 90%;
+       }
+       .flexcolstart{
+        font-size: 10px;
+        margin-left: 20px;
+
+       }
+
+       #firstname{
+        width: 80%;
+        display: block;
+       }
+       #emailname{
+        width: 80%;
+        display: block;
+       }
+       #lastname{
+        width: 80%;
+        display: block;
+       }
+       #mobile{
+        width: 80%;
+        display: block;
+       }
+       .formcontainer form {
+        width: 370px;
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+        border-radius: 15px;
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(10px);
+        flex-wrap: wrap;
+     }
+     .formcontainer form #button{
+        border: none;
+        background: #fff;
+        border-radius: 5px;
+        margin-top: 20px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #333;
+        width: 100px;
+        padding: 0;
+        margin-right: 200px;
+        margin-bottom: 30px;
+        transition: 0.3s;
+     }
+     .formcontainer form textarea{
+        background: none;
+        border: none;
+        border-bottom: 2px solid #fff;
+        color: #fff;
+        font-weight: 200;
+        font-size: 15px;
+        padding: 25px;
+        outline: none;
+        min-width: 300px;
+        max-width: 300px;
+        min-height: 80px;
+        max-height: 80px;
+     }
+     .formcontainer form label{
+        color: #fff;
+        font-weight: 200;
+        width: 500px;
+        margin-top: 20px;
+        margin-left: 57px;
+        
+     }
+      
+
+
+
+     
+
+
+}
+
+@media only screen and (max-width:375px) {
+
+    .container4 h3{
+      
+        margin-bottom: 20px;
+      margin-left:1px;
+        margin-top: 40px;
+        font-size: 12x;
+        text-align: center;
+        width: 80%;
+       
+    }
+    .container2 h5{
+        font-size: 15px;
+        margin-right:400px; 
+        text-align: center;
+       
+    }
+    .imagecontainer1{
+        width: 50%;
+        margin-right:680px;
+        margin-top: 15px;
+        height: 300px;
+    }
+    .buttons1{
+        margin-top: 50px;
+        margin-right: 100px;
+        display: block;
+         
+     }
+     .buttons1 button{
+        margin-top: 10px;
+        width: 90%;
+     }
+     
+     .image-container{
+        position: absolute;
+        top: 140px;
+        width: 50%;
+        height: 350px;
+        
+       left: 170px;
+       
+    }
+    .banner-des span{
+       
+        margin-right: 270px;
+        
+    }
+   
+  
+   
+       .banner-title h1{
+        font-size: 18px;
+        margin-top: 90px;
+
+       }
+       
+       .stats{
+        font-size: 10px;
+      margin-top:250px;
+    width: 100%;
+     
+      margin-right: 50px;
+       }
+       .stats span{
+        font-size: 12px;
+       }
+       .banner-container{
+        width: 90%;
+       }
+       .flexcolstart{
+        font-size: 10px;
+        margin-left: 20px;
+
+
+       }
+       .sec3p1 h5{
+        text-align: center;
+        margin-right:440px;
+       
+        font-size: 12px;
+        width: 100%;
+       }
+
+       #firstname{
+        width: 80%;
+        display: block;
+       }
+       #emailname{
+        width: 80%;
+        display: block;
+       }
+       #lastname{
+        width: 80%;
+        display: block;
+       }
+       #mobile{
+        width: 80%;
+        display: block;
+       }
+       .formcontainer form {
+        width: 310px;
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+        border-radius: 15px;
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(10px);
+        flex-wrap: wrap;
+     }
+     .formcontainer form #button{
+        border: none;
+        background: #fff;
+        border-radius: 5px;
+        margin-top: 20px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #333;
+        width: 100px;
+        padding: 0;
+        margin-right: 200px;
+        margin-bottom: 30px;
+        transition: 0.3s;
+     }
+     .formcontainer form textarea{
+        background: none;
+        border: none;
+        border-bottom: 2px solid #fff;
+        color: #fff;
+        font-weight: 200;
+        font-size: 15px;
+        padding: 25px;
+        outline: none;
+        min-width: 300px;
+        max-width: 300px;
+        min-height: 80px;
+        max-height: 80px;
+     }
+     .formcontainer form label{
+        color: #fff;
+        font-weight: 200;
+        width: 500px;
+        margin-top: 20px;
+        margin-left: 57px;
+        
+     }
+      
+
+
+
+}
